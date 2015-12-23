@@ -1,0 +1,28 @@
+name: elainechildress
+favicon: null
+layout_spectrum: 0.8511368215549737
+typography_spectrum: 0.8026350261643529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6507821776904166
+  lightness: 0.7822766811586916
+  saturation: 0.6439037823583931
+  rhythmicContrast: 0.027043418725952506
+purpose: []
