@@ -1,28 +1,40 @@
-name: elainechildress
-favicon: null
-layout_spectrum: 0.8511368215549737
-typography_spectrum: 0.8026350261643529
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6507821776904166
-  lightness: 0.7822766811586916
-  saturation: 0.6439037823583931
-  rhythmicContrast: 0.027043418725952506
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6439037823583931
+  brandStrength: 0.6155143
+  lightness: 0.7822766811586916
+  brandColors:
+    - '#141718'
+    - '#6E7678'
+    - '#99B3C7'
+    - '#E0E0D8'
+    - '#BDAB80'
+  rhythmicContrast: 0.02704341872595251
+typography_spectrum: 0.5059022
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5278246
+favicon: null
+name: elainechildress
