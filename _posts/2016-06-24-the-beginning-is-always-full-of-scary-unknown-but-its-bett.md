@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  The beginning is always full of scary unknowns, but it's better to live in the
-  unknown rather than wither away in whats predictable comfortable.
-datePublished: '2016-06-24T17:45:50.229Z'
-dateModified: '2016-06-24T17:45:14.960Z'
+  Beginnings are always full of scary unknowns, but it's better to live with the
+  unknowns rather than wither away with predictable comfortableness.
+datePublished: '2016-06-24T17:46:42.369Z'
+dateModified: '2016-06-24T17:46:36.744Z'
 title: ''
 author: []
 sourcePath: >-
@@ -20,4 +20,4 @@ url: the-beginning-is-always-full-of-scary-unknown-but-its-bett/index.html
 _type: Article
 
 ---
-The beginning is always full of scary unknowns, but it's better to live in the unknown rather than wither away in whats predictable comfortable.
+Beginnings are always full of scary unknowns, but it's better to live with the unknowns rather than wither away with predictable comfortableness.
