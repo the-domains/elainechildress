@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: elainechildress
+favicon: null
+layout_spectrum: 0.5278246
+typography_spectrum: 0.5059022
 collections:
   - index:
       path: /
@@ -18,23 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: elainechildress
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6439037823583931
-  brandStrength: 0.6155143
-  lightness: 0.7822766811586916
   brandColors:
     - '#141718'
     - '#6E7678'
     - '#99B3C7'
     - '#E0E0D8'
     - '#BDAB80'
+  brandStrength: 0.6155143
+  lightness: 0.7822766811586916
+  saturation: 0.6439037823583931
   rhythmicContrast: 0.02704341872595251
-typography_spectrum: 0.5059022
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5278246
-favicon: null
-name: elainechildress
+purpose: []
