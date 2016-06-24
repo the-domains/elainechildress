@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[elainechildress]]></title>
         <description><![CDATA[elainechildress]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elainechildress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 17:38:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 17:44:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elainechildress/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a819139-4aa2-4e68-8873-7e7da0452f88.jpg">]]></description>
+            <link>https://thegrid.ai/elainechildress/1336dd9c-78e8-46bf-9059-7068e8cf759d/index.html</link>
+            <guid isPermaLink="false">1336dd9c-78e8-46bf-9059-7068e8cf759d</guid>
+            <pubDate>Fri, 24 Jun 2016 17:44:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The beginning is always full of scary unknown, but it's better to live in the unknown rather than wither away in whats predictable comfortable.</p>]]></description>
-            <link>undefinedthe-beginning-is-always-full-of-scary-unknown-but-its-bett/index.html</link>
+            <link>https://thegrid.ai/elainechildress/the-beginning-is-always-full-of-scary-unknown-but-its-bett/index.html</link>
             <guid isPermaLink="false">7070ce46-2ce9-43b7-8c28-47730b0e671e</guid>
             <pubDate>Fri, 24 Jun 2016 17:37:59 GMT</pubDate>
         </item>
